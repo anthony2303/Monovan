@@ -1,7 +1,7 @@
 {
-  "name": "CapiBot Premium",
+  "name": "MonkeyBot",
   "version": "1.0.0",
-  "description": "Usa CapiBot Premium",
+  "description": "Usa MonkeyBot",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/anthony2303/capibot.git",
+  "homepage": "https://github.com/anthony2303/monovan.git",
   "author": {
-    "name": "BrunoSobrino"
+    "name": "anthony2303"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anthony2303/capibot.git"
+    "url": "https://github.com/anthony2303/monovan.git"
   },
   "bugs": {
-    "url": "https://github.com/anthony2303/capibot.git/issues"
+    "url": "https://github.com/anthony2303/monovan.git/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
