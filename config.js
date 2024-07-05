@@ -11,18 +11,18 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['5219181527190', '👑 Brysubot - Creador 👑', true],
+  ['5215625775955', '👑 Brysubot - Creador 👑', true],
 ];
 
-global.suittag = ['5219181527190'];
-global.prems = ['5219181527190'];
+global.suittag = ['5215625775955'];
+global.prems = ['5215625775955'];
 
-global.packname = 'BRYSUBOT';
-global.author = 'BRYSUBOT';
-global.wm = 'BRYSUBOT';
-global.titulowm = 'BRYSUBOT';
-global.titulowm2 = `BRYSUBOT`
-global.igfg = 'BRYSUBOT';
+global.packname = 'MONKEY';
+global.author = 'BY MONOVAN';
+global.wm = 'MONKEY';
+global.titulowm = 'MONKEY';
+global.titulowm2 = `MONKEY`
+global.igfg = 'MONKEY';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -45,15 +45,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nBRYSUBOT`;
-global.gt = 'BRYSUBOT';
-global.mysticbot = 'BRYSUBOT';
-global.md = 'wa.me/5219181527190';
-global.mysticbot = 'wa.me/5219181527190';
+global.wm2 = `${dia} ${fecha}\nMONOVAN`;
+global.gt = 'MONOVAN';
+global.mysticbot = 'MONOVAN';
+global.md = 'wa.me/5215625775955';
+global.mysticbot = 'wa.me/5215625775955';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '5219181527190';
+global.nomorown = '5215625775955';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
