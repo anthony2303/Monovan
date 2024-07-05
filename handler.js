@@ -28,7 +28,7 @@ export async function handler(chatUpdate) {
   this.uptime = this.uptime || Date.now();
   if (!chatUpdate) {
     return;
-  }
+  } 
   this.pushMessage(chatUpdate.messages).catch(console.error);
   let m = chatUpdate.messages[chatUpdate.messages.length - 1];
   if (!m) {
@@ -1546,7 +1546,7 @@ global.dfail = (type, m, conn) => {
     restrict: '*[ ℹ️ ] Este comando fue desactivado por el propietario del bot.*',
   }[type];
   const aa = {quoted: m, userJid: conn.user.jid};
-  const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: msg, contextInfo: {externalAdReply: {title: '*[ ⚠ ] Advertencia*', body: 'CapiBot Premium', thumbnail: imagen1, sourceUrl: 'https://wa.me/525625060788'}}}}, aa);
+  const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: msg, contextInfo: {externalAdReply: {title: '*[ ⚠ ] Advertencia*', body: 'MONKEYBOT', thumbnail: imagen1, sourceUrl: 'https://wa.me/5215625775955'}}}}, aa);
   if (msg) return conn.relayMessage(m.chat, prep.message, {messageId: prep.key.id});
 };
 
