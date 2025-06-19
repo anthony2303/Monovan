@@ -18,7 +18,7 @@ global.suittag = ['5215625775955'];
 global.prems = ['5215625775955'];
 
 global.packname = 'MONKEY';
-global.author = 'BY MONOVAN';
+global.author = 'BY Nekotina 2.0';
 global.wm = 'MONKEY';
 global.titulowm = 'MONKEY';
 global.titulowm2 = `MONKEY`
@@ -45,9 +45,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nMONOVAN`;
-global.gt = 'MONOVAN';
-global.mysticbot = 'MONOVAN';
+global.wm2 = `${dia} ${fecha}\nNekotina 2.0`;
+global.gt = 'Nekotina 2.0';
+global.mysticbot = 'Nekotina 2.0';
 global.md = 'wa.me/5215625775955';
 global.mysticbot = 'wa.me/5215625775955';
 global.waitt = '*[ ⏳ ] Cargando...*';

@@ -17,7 +17,7 @@ say('MONKEY\nBot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`Bot creado por MONOVAN`, {
+say(`Bot creado por Nekotina 2.0`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
